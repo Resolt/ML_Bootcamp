@@ -37,5 +37,3 @@ elif section == 3:
 
 
 plt.show()
-
-print("LOL TEST")
