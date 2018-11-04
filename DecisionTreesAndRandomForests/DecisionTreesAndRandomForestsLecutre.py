@@ -3,7 +3,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-from sklearn.cross_validation import train_test_split as TTS
+from sklearn.model_selection import train_test_split as TTS
 from sklearn.tree import DecisionTreeClassifier as DTC
 
 from sklearn.ensemble import RandomForestClassifier as RFC
